@@ -39,6 +39,7 @@ const quizData=[
     d:"2000",
     correct:"a"
 },
+ 
 
 
 ]
